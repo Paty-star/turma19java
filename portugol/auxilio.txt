@@ -1,0 +1,31 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		//Programa auxílio emergencial
+
+		cadeia nome 
+		logico chefaFamilia = verdadeiro
+		inteiro valorAuxilio
+
+		escreva("Olá, qual seu nome? ")
+		leia(nome)
+
+		escreva("Você é chefa de família? ")
+		leia(chefaFamilia)
+
+		se(chefaFamilia == verdadeiro){
+			escreva("Você receberá R$ 1200")			
+			
+			}
+			senao
+			{
+				escreva("Você receberá R$600")
+			
+		}
+
+				
+
+	}
+}
