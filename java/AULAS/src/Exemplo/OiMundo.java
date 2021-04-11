@@ -7,6 +7,10 @@ public class OiMundo {
 		System.out.println("oi turma 19\n");
 		System.out.println("vamos programar em java");
 		
+		System.out.println("");
+		System.out.printf();
+		
+		
 		
 	}
 
