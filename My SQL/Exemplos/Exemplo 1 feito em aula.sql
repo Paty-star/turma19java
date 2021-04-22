@@ -12,8 +12,8 @@ preco float not null,
 primary key(id)
 );
 
-insert into tb_produtos (nome,preco) values ("mamao",2,50);
-insert into tb_produtos (nome,preco) values ("melancia",1,50);
+insert into db_produtos (nome,preco) values ("mamao",2,50);
+insert into db_produtos (nome,preco) values ("melancia",1,50);
 
 
 

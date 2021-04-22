@@ -1,1 +1,1 @@
-select * from tb_produtos
+tb_produtostb_marcas
